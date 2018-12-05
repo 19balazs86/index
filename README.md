@@ -2,7 +2,7 @@
 
 [Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock "Playing with Distributed Lock") - Try out to make distributed locks using Redis.
 
-[Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the built-in GenericHost in .NET Core console app.
+[Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the built-in GenericHost in .NET Core console app and in Windows Service.
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebApp.
 
