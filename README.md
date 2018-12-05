@@ -6,9 +6,9 @@
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebApp.
 
-[Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out Rx.NET.
+[Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET.
 
-[Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out MediatR.
+[Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out a CQRS like pattern with MediatR.
 
 [Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core WebApp.
 
