@@ -14,4 +14,4 @@
 
 [Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI.
 
-[Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out AggregateException in a multithreading application.
+[Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out AggregateException in multithreading application.
