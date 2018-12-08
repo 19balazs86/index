@@ -6,9 +6,9 @@
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebAPI, using Polly to retry.
 
-[Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
-
 [Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out a CQRS like pattern with MediatR. Global error handling. In-memory EF. AutoMapper.
+
+[Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
 
 [Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core WebAPI, symmetric and asymmetric key.
 
