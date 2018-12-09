@@ -12,6 +12,8 @@
 
 [Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core WebAPI, symmetric and asymmetric key.
 
+[Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks "Playing with HealthChecks") - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
+
 [Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI.
 
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out AggregateException in multithreading application.
