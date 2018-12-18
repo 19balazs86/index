@@ -11,6 +11,8 @@ are meant to be a playground to quickly and easily try out certain things and gi
 
 [Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
 
+[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost "Playing with TestHost") - Try out the built-in TestServer to write integration tests and bypassing the authentication.
+
 [Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core WebAPI, symmetric and asymmetric key.
 
 [Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks "Playing with HealthChecks") - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
