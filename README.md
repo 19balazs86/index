@@ -19,4 +19,6 @@ are meant to be a playground to quickly and easily try out certain things and gi
 
 [Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI.
 
+[Playing with **Swagger**](https://github.com/19balazs86/PlayingWithSwagger "Playing with Swagger") - Try out the Swagger to generate documentation for Web APIs.
+
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out AggregateException in multithreading application.
