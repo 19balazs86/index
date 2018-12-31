@@ -17,7 +17,7 @@ are meant to be a playground to quickly and easily try out certain things and gi
 
 [Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks "Playing with HealthChecks") - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
 
-[Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI.
+[Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI. AddMvcCore instead of AddMvc.
 
 [Playing with **Swagger**](https://github.com/19balazs86/PlayingWithSwagger "Playing with Swagger") - Try out the Swagger to generate documentation for Web APIs.
 
