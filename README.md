@@ -7,6 +7,8 @@ are meant to be a playground to quickly and easily try out certain things and gi
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebAPI, using Polly to retry.
 
+[Playing with **Refit**](https://github.com/19balazs86/PlayingWithRefit "Playing with Refit") - Try out the Refit, automatic type-safe REST library in ASP.NET Core WebAPI, using Polly to retry.
+
 [Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out a CQRS like pattern with MediatR. Global error handling. In-memory EF. AutoMapper.
 
 [Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
