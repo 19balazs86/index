@@ -1,5 +1,5 @@
 ### The following Repositories
-are meant to be a playground to quickly and easily try out certain things and give you some tips. A good initial or start point to make the fundamental pieces together in order to create a complex application.
+are meant to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting point to make the fundamental pieces together in order to create a complex application.
 
 [Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock "Playing with Distributed Lock") - Try out to make distributed locks using Redis.
 
