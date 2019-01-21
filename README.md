@@ -19,7 +19,7 @@ are meant to be a collection of certain topics. Playground to quickly and easily
 
 [Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks "Playing with HealthChecks") - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
 
-[Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI. Read configuration from Consul.
+[Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog "Playing with Serilog") - Try out Serilog in ASP.NET Core WebAPI. Read configurations from Consul.
 
 [Playing with **Ocelot**](https://github.com/19balazs86/PlayingWithOcelot "Playing with Ocelot") - Try out Ocelot, an open-source .NET Core API Gateway.
 
