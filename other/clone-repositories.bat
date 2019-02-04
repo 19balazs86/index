@@ -9,6 +9,7 @@ git clone https://github.com/19balazs86/PlayingWithMediatR.git
 git clone https://github.com/19balazs86/PlayingWithMongoDB.git
 git clone https://github.com/19balazs86/PlayingWithObserver.git
 git clone https://github.com/19balazs86/PlayingWithOcelot.git
+git clone https://github.com/19balazs86/PlayingWithRabbitMQ.git
 git clone https://github.com/19balazs86/PlayingWithRefit.git
 git clone https://github.com/19balazs86/Playing-with-Serilog.git
 git clone https://github.com/19balazs86/PlayingWithSwagger.git

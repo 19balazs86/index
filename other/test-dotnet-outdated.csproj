@@ -32,6 +32,7 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.0" />
     <PackageReference Include="Ocelot" Version="13.0.0" />
     <PackageReference Include="Polly" Version="6.1.2" />
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.0" />
     <PackageReference Include="Refit" Version="4.6.58" />
     <PackageReference Include="Refit.HttpClientFactory" Version="4.6.58" />
     <PackageReference Include="Serilog" Version="2.8.0" />

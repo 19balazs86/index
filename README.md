@@ -1,7 +1,9 @@
 ### The following Repositories
 are meant to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting point to make the fundamental pieces together in order to create a complex application.
 
-[Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock "Playing with Distributed Lock") - Try out to make distributed locks using Redis.
+[Playing with **RabbitMQ**](https://github.com/19balazs86/PlayingWithRabbitMQ "Playing with RabbitMQ") - Try out RabbitMQ message broker. Publish messages and consuming in the background using GenericHost.
+
+[Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock "Playing with Distributed Lock") - Try out making distributed locks using Redis.
 
 [Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the built-in GenericHost to run background tasks in Windows Service.
 
