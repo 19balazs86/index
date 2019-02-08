@@ -19,7 +19,7 @@ are meant to be a collection of certain topics. Playground to quickly and easily
 
 [Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost "Playing with TestHost") - Try out the built-in TestServer to write integration tests and bypassing the authentication.
 
-[Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core WebAPI, symmetric and asymmetric key.
+[Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT Authentication in ASP.NET Core. Difference between AddMvc and AddMvcCore.
 
 [Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks "Playing with HealthChecks") - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
 
