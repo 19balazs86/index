@@ -5,6 +5,8 @@ are meant to be a collection of certain topics. Playground to quickly and easily
 
 [Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock "Playing with Distributed Lock") - Try out making distributed locks using Redis.
 
+[Playing with **Distributed Tracing**](https://github.com/19balazs86/PlayingWithDistributedTracing "Playing with Distributed Tracing") - Try out distributed tracing using Jaeger and OpenTracing library.
+
 [Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the built-in GenericHost to run background tasks in Windows Service.
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebAPI, using Polly to retry.
