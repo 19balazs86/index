@@ -1,5 +1,7 @@
 ### The following Repositories
-are meant to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting point to make the fundamental pieces together in order to create a complex application.
+are intended to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting points to make the fundamental pieces together in order to create a complex application with .NET Core.
+
+> Find something you are passionate about and that helps you be a better engineer. [Blog post](https://dev.to/vintharas/how-to-come-up-with-great-side-projects-3kb "Blog post").
 
 [Playing with **RabbitMQ**](https://github.com/19balazs86/PlayingWithRabbitMQ "Playing with RabbitMQ") - Try out RabbitMQ message broker. Publish messages and consuming in the background.
 
