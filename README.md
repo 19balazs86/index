@@ -1,5 +1,5 @@
 ### The following Repositories
-are intended to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting points to make the fundamental pieces together in order to create a complex application with .NET Core.
+are intended to be a collection of certain topics. Playground to quickly and easily try out certain things. A good initial or starting point to make the fundamental pieces together in order to create a complex application with .NET Core.
 
 > Find something you are passionate about and that helps you be a better engineer. [Blog post](https://dev.to/vintharas/how-to-come-up-with-great-side-projects-3kb "Blog post").
 
@@ -35,4 +35,4 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Swagger**](https://github.com/19balazs86/PlayingWithSwagger "Playing with Swagger") - Try out the Swagger to generate documentation for Web APIs.
 
-[Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out AggregateException in multithreading application.
+[Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out the AggregateException in asynchronous code.
