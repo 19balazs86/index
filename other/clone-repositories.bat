@@ -8,6 +8,7 @@ git clone https://github.com/19balazs86/PlayingWithHealthChecks.git
 git clone https://github.com/19balazs86/PlayingWithHttpClientFactory.git
 git clone https://github.com/19balazs86/Playing-with-JWT-Authentication.git
 git clone https://github.com/19balazs86/PlayingWithMediatR.git
+git clone https://github.com/19balazs86/PlayingWithMetrics.git
 git clone https://github.com/19balazs86/PlayingWithMongoDB.git
 git clone https://github.com/19balazs86/PlayingWithObserver.git
 git clone https://github.com/19balazs86/PlayingWithOcelot.git

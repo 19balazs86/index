@@ -35,4 +35,6 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Swagger**](https://github.com/19balazs86/PlayingWithSwagger "Playing with Swagger") - Try out the Swagger to generate documentation for Web APIs.
 
+[Playing with **Metrics**](https://github.com/19balazs86/PlayingWithMetrics "Playing with Metrics") - Try out app-metrics with Prometheus.
+
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException "Playing with AggregateException") - Try out the AggregateException in asynchronous code.
