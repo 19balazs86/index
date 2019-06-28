@@ -21,6 +21,8 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out a CQRS like pattern with MediatR. Global error handling. In-memory EF. AutoMapper.
 
+[Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions "Playing with Azure Functions") - Try out Azure Functions.
+
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB "Playing with MongoDB") - Try out MongoDB, CRUD operations, pagination solution.
 
 [Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
