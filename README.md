@@ -21,13 +21,15 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR "Playing with MediatR") - Try out a CQRS like pattern with MediatR. Global error handling. In-memory EF. AutoMapper.
 
-[Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions "Playing with Azure Functions") - Try out Azure Functions.
+[Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions "Playing with Azure Functions") - Try out Azure Functions and get a collection of useful links.
 
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB "Playing with MongoDB") - Try out MongoDB, CRUD operations, pagination solution.
 
 [Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver "Playing with Observer") - Try out the observer design pattern with Rx.NET (Reactive Extension).
 
 [Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost "Playing with TestHost") - Try out the built-in TestServer to write integration tests and bypassing the authentication.
+
+[Playing with **BenchmarkDotNet**](https://github.com/19balazs86/PlayingWithBenchmarkDotNet "Playing with BenchmarkDotNet") - Try out BenchmarkDotNet. Tips and tricks to write high-performance code.
 
 [Playing with **JWT authentication**](https://github.com/19balazs86/Playing-with-JWT-Authentication "Playing with JWT authentication") - Try out JWT in ASP.NET Core. Difference between AddMvc and AddMvcCore.
 

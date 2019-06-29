@@ -1,5 +1,6 @@
 git clone https://github.com/19balazs86/AzureFunctions.git
 git clone https://github.com/19balazs86/index.git
+git clone https://github.com/19balazs86/PlayingWithBenchmarkDotNet.git
 git clone https://github.com/19balazs86/PlayingWithAggregateException.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git
 git clone https://github.com/19balazs86/PlayingWithDistributedTracing.git
