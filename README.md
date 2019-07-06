@@ -13,7 +13,7 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **SignalR**](https://github.com/19balazs86/PlayingWithSignalR "Playing with SignalR") - Try out the SignalR back-end. Unit and Integration test. JWT Authentication.
 
-[Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the built-in GenericHost to run background tasks in Windows Service.
+[Playing with **GenericHost**](https://github.com/19balazs86/PlayingWithGenericHost "Playing with GenericHost") - Try out the GenericHost / WorkerService and running as a Windows Service.
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory "Playing with HttpClientFactory") - Try out the built-in HttpClientFactory in ASP.NET Core WebAPI, using Polly to retry.
 
