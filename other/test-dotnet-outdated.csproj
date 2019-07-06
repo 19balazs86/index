@@ -64,7 +64,6 @@
     <PackageReference Include="StackExchange.Redis" Version="2.0.601" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
     <PackageReference Include="System.Reactive" Version="4.1.5" />
-    <PackageReference Include="System.ServiceProcess.ServiceController" Version="4.5.0" />
     <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="2.3.0" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
