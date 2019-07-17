@@ -43,4 +43,7 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Metrics**](https://github.com/19balazs86/PlayingWithMetrics) - Try out app-metrics with Prometheus.
 
+[Playing with **Distributed Caching**](https://github.com/19balazs86/PlayingWithDistributedCaching) - Try out distributed cache with Redis.
+
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException) - Try out the AggregateException in asynchronous code.
+
