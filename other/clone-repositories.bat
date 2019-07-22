@@ -21,4 +21,5 @@ git clone https://github.com/19balazs86/Playing-with-Serilog.git
 git clone https://github.com/19balazs86/PlayingWithSignalR.git
 git clone https://github.com/19balazs86/PlayingWithSwagger.git
 git clone https://github.com/19balazs86/PlayingWithTestHost.git
+git clone https://github.com/19balazs86/ProjectUpdaterTool.git
 pause
