@@ -27,7 +27,7 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests and bypassing the authentication.
 
-[Playing with **Observer**](https://github.com/19balazs86/PlayingWithObserver) - Try out the observer design pattern with Rx.NET (Reactive Extension).
+[Playing with **Rx.NET**](https://github.com/19balazs86/PlayingWithRxDotNet) - Try out the observer design pattern with Rx.NET (Reactive Extension).
 
 [Playing with **BenchmarkDotNet**](https://github.com/19balazs86/PlayingWithBenchmarkDotNet) - Try out BenchmarkDotNet. Tips and tricks to write high-performance code.
 
