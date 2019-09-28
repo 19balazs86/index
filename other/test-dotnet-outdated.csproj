@@ -12,17 +12,17 @@
     <PackageReference Include="App.Metrics.Reporting.InfluxDb" Version="3.1.0" />
     <PackageReference Include="AspNetCore.HealthChecks.MySql" Version="2.2.0" />
     <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="2.2.3" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="2.2.33" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="2.2.35" />
     <PackageReference Include="AutoMapper" Version="9.0.0" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="BenchmarkDotNet" Version="0.11.5" />
-    <PackageReference Include="Bogus" Version="28.0.3" />
-    <PackageReference Include="FluentValidation" Version="8.4.0" />
-    <PackageReference Include="FluentValidation.AspNetCore" Version="8.4.0" />
+    <PackageReference Include="Bogus" Version="28.3.1" />
+    <PackageReference Include="FluentValidation" Version="8.5.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.5.0" />
     <PackageReference Include="GraphQL" Version="2.4.0" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="3.4.0" />
     <PackageReference Include="GraphQL.Server.Ui.Playground" Version="3.4.0" />
-    <PackageReference Include="Jaeger" Version="0.3.4" />
+    <PackageReference Include="Jaeger" Version="0.3.5" />
     <PackageReference Include="MediatR" Version="7.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
@@ -44,18 +44,18 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.5.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.29" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.3.0" />
     <PackageReference Include="Microsoft.Reactive.Testing" Version="4.1.6" />
     <PackageReference Include="MongoDB.Driver" Version="2.9.1" />
-    <PackageReference Include="Moq" Version="4.12.0" />
+    <PackageReference Include="Moq" Version="4.13.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.4" />
     <PackageReference Include="Ocelot" Version="13.5.2" />
-    <PackageReference Include="OpenTracing" Version="0.12.0" />
-    <PackageReference Include="OpenTracing.Contrib.NetCore" Version="0.6.0" />
-    <PackageReference Include="Polly" Version="7.1.0" />
+    <PackageReference Include="OpenTracing" Version="0.12.1" />
+    <PackageReference Include="OpenTracing.Contrib.NetCore" Version="0.6.1" />
+    <PackageReference Include="Polly" Version="7.1.1" />
     <PackageReference Include="Quartz" Version="3.0.7" />
-    <PackageReference Include="RabbitMQ.Client" Version="5.1.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.1" />
     <PackageReference Include="Refit" Version="4.7.51" />
     <PackageReference Include="Refit.HttpClientFactory" Version="4.7.51" />
     <PackageReference Include="Scrutor" Version="3.1.0" />
@@ -67,9 +67,9 @@
     <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
     <PackageReference Include="Serilog.Sinks.File" Version="4.0.0" />
     <PackageReference Include="StackExchange.Redis" Version="2.0.601" />
-    <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="5.1.2" />
-    <PackageReference Include="StackExchange.Redis.Extensions.Binary" Version="5.1.2" />
-    <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="5.1.2" />
+    <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="5.2.0" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Binary" Version="5.2.0" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="5.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
     <PackageReference Include="System.Reactive" Version="4.1.6" />
