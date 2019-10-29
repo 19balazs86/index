@@ -1,3 +1,4 @@
+git clone https://github.com/19balazs86/AzureAppInsights.git
 git clone https://github.com/19balazs86/AzureDevOps.git
 git clone https://github.com/19balazs86/AzureFunctions.git
 git clone https://github.com/19balazs86/AzureServiceBus.git

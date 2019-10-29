@@ -27,6 +27,8 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Azure DevOps**](https://github.com/19balazs86/AzureDevOps) - Try out Azure DevOps Pipeline (YAML, ARM, PowerShell).
 
+[Playing with **Azure AppInsights**](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
+
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 
 [Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests and bypassing the authentication.
