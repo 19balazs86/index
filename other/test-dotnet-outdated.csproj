@@ -25,6 +25,7 @@
     <PackageReference Include="Hangfire.Core" Version="1.7.7" />
     <PackageReference Include="Hangfire.SqlServer" Version="1.7.7" />
     <PackageReference Include="Jaeger" Version="0.3.6" />
+    <PackageReference Include="MbDotNet" Version="4.3.1" />
     <PackageReference Include="MediatR" Version="7.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.2" />
