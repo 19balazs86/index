@@ -11,13 +11,13 @@
     <PackageReference Include="App.Metrics.Reporting.InfluxDb" Version="3.2.0" />
     <PackageReference Include="AspNetCore.HealthChecks.MySql" Version="3.0.0" />
     <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="3.0.0" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="3.0.5" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="3.0.9" />
     <PackageReference Include="AutoMapper" Version="9.0.0" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="BenchmarkDotNet" Version="0.12.0" />
-    <PackageReference Include="Bogus" Version="28.4.3" />
-    <PackageReference Include="FluentValidation" Version="8.6.0" />
-    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.0" />
+    <PackageReference Include="Bogus" Version="28.4.4" />
+    <PackageReference Include="FluentValidation" Version="8.6.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.1" />
     <PackageReference Include="GraphQL" Version="2.4.0" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="3.4.0" />
     <PackageReference Include="GraphQL.Server.Ui.Playground" Version="3.4.0" />
@@ -26,10 +26,10 @@
     <PackageReference Include="Hangfire.SqlServer" Version="1.7.8" />
     <PackageReference Include="Jaeger" Version="0.3.6" />
     <PackageReference Include="MbDotNet" Version="4.3.1" />
-    <PackageReference Include="MediatR" Version="7.0.0" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.2" />
-    <PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.8.2" />
+    <PackageReference Include="MediatR" Version="8.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.12.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.12.0" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
@@ -57,8 +57,8 @@
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.2" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
-    <PackageReference Include="Microsoft.Reactive.Testing" Version="4.3.1" />
-    <PackageReference Include="MongoDB.Driver" Version="2.9.3" />
+    <PackageReference Include="Microsoft.Reactive.Testing" Version="4.3.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.0" />
     <PackageReference Include="Moq" Version="4.13.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.0" />
@@ -73,7 +73,7 @@
     <PackageReference Include="Scrutor" Version="3.1.0" />
     <PackageReference Include="Serilog" Version="2.9.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
-    <PackageReference Include="Serilog.Exceptions" Version="5.3.1" />
+    <PackageReference Include="Serilog.Exceptions" Version="5.4.0" />
     <PackageReference Include="Serilog.Extensions.Hosting" Version="3.0.0" />
     <PackageReference Include="Serilog.Formatting.Compact" Version="1.1.0" />
     <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
@@ -83,9 +83,9 @@
     <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="5.5.0" />
     <PackageReference Include="StackExchange.Redis.Extensions.Binary" Version="5.5.0" />
     <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="5.5.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc5" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
-    <PackageReference Include="System.Reactive" Version="4.3.1" />
+    <PackageReference Include="System.Reactive" Version="4.3.2" />
     <PackageReference Include="System.Threading.Channels" Version="4.7.0" />
     <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="3.0.0" />
     <PackageReference Include="xunit" Version="2.4.1" />
