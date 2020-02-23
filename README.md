@@ -23,6 +23,8 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Azure AppInsights**](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
 
+[Playing with **Device offline detection**](https://github.com/19balazs86/PlayingWithDeviceOfflineDetection) - Using durable entities to detect online/offline devices.
+
 [Playing with **GraphQL**](https://github.com/19balazs86/PlayingWithGraphQL) - Try out GraphQL for ASP.NET Core.
 
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.

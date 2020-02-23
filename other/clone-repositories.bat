@@ -4,6 +4,7 @@ git clone https://github.com/19balazs86/AzureFunctions.git
 git clone https://github.com/19balazs86/AzureServiceBus.git
 git clone https://github.com/19balazs86/index.git
 git clone https://github.com/19balazs86/PlayingWithBenchmarkDotNet.git
+git clone https://github.com/19balazs86/PlayingWithDeviceOfflineDetection.git
 git clone https://github.com/19balazs86/PlayingWithAggregateException.git
 git clone https://github.com/19balazs86/PlayingWithDistributedCaching.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git
