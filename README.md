@@ -15,6 +15,8 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Refit**](https://github.com/19balazs86/PlayingWithRefit) - Try out the Refit, automatic type-safe REST library in ASP.NET Core WebAPI, using Polly to retry.
 
+[Playing with **gRPC**](https://github.com/19balazs86/PlayingWith_gRPC) - Try out the .NET Core client and server gRPC framework.
+
 [Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions) - Try out Azure Functions and get a collection of useful links.
 
 [Playing with **Azure Service Bus**](https://github.com/19balazs86/AzureServiceBus) - Try out Azure Service Bus and get a collection of useful links.
