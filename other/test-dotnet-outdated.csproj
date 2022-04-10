@@ -20,10 +20,11 @@
     <PackageReference Include="FluentValidation" Version="10.4.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="10.4.0" />
     <PackageReference Include="Google.Protobuf" Version="3.20.0" />
-    <PackageReference Include="GraphQL" Version="4.7.1" />
+    <PackageReference Include="GraphQL" Version="4.8.0" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="5.2.1" />
-    <PackageReference Include="GraphQL.Server.Transports.AspNetCore.NewtonsoftJson" Version="5.2.1" />
+    <PackageReference Include="GraphQL.Server.Transports.AspNetCore.SystemTextJson" Version="5.2.1" />
     <PackageReference Include="GraphQL.Server.Ui.Playground" Version="5.2.1" />
+    <PackageReference Include="GraphQL.SystemTextJson" Version="4.8.0" />
     <PackageReference Include="Grpc.AspNetCore.Server" Version="2.44.0" />
     <PackageReference Include="Grpc.Core" Version="2.45.0" />
     <PackageReference Include="Grpc.Net.Client" Version="2.44.0" />
