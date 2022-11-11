@@ -20,11 +20,6 @@
     <PackageReference Include="FluentValidation" Version="11.3.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
     <PackageReference Include="Google.Protobuf" Version="3.21.9" />
-    <PackageReference Include="GraphQL" Version="4.8.0" />
-    <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="5.2.1" />
-    <PackageReference Include="GraphQL.Server.Transports.AspNetCore.SystemTextJson" Version="5.2.1" />
-    <PackageReference Include="GraphQL.Server.Ui.Playground" Version="5.2.1" />
-    <PackageReference Include="GraphQL.SystemTextJson" Version="4.8.0" />
     <PackageReference Include="Grpc.AspNetCore.Server" Version="2.49.0" />
     <PackageReference Include="Grpc.Core" Version="2.46.5" />
     <PackageReference Include="Grpc.Net.Client" Version="2.49.0" />
@@ -52,7 +47,6 @@
     <PackageReference Include="Microsoft.Azure.Storage.Queue" Version="11.2.3" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DurableTask" Version="2.8.1" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.SignalRService" Version="1.8.0" />
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="4.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="7.0.0" />
