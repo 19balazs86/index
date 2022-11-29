@@ -18,7 +18,7 @@
     <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.11.1" />
     <PackageReference Include="BenchmarkDotNet" Version="0.13.2" />
     <PackageReference Include="Bogus" Version="34.0.2" />
-    <PackageReference Include="FluentValidation" Version="11.3.0" />
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
     <PackageReference Include="Google.Protobuf" Version="3.21.9" />
     <PackageReference Include="Grpc.AspNetCore.Server" Version="2.50.0" />
@@ -47,7 +47,7 @@
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="7.0.0" />
     <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.2.0" />
     <PackageReference Include="Microsoft.Azure.Storage.Queue" Version="11.2.3" />
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DurableTask" Version="2.8.1" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DurableTask" Version="2.9.0" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.SignalRService" Version="1.8.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.0" />
@@ -67,7 +67,7 @@
     <PackageReference Include="Microsoft.Reactive.Testing" Version="5.0.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.18.0" />
     <PackageReference Include="Moq" Version="4.18.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
     <PackageReference Include="Ocelot" Version="18.0.0" />
     <PackageReference Include="OpenTracing" Version="0.12.1" />
@@ -88,7 +88,7 @@
     <PackageReference Include="Serilog.Settings.Configuration" Version="3.4.0" />
     <PackageReference Include="Serilog.Sinks.Console" Version="4.1.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
-    <PackageReference Include="StackExchange.Redis" Version="2.6.70" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.80" />
     <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="8.0.5" />
     <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="8.0.5" />
     <PackageReference Include="StackExchange.Redis.Extensions.Newtonsoft" Version="8.0.5" />
