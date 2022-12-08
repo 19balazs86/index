@@ -16,7 +16,6 @@ git clone https://github.com/19balazs86/PlayingWithGraphQL.git
 git clone https://github.com/19balazs86/PlayingWithHangfire.git
 git clone https://github.com/19balazs86/PlayingWithHealthChecks.git
 git clone https://github.com/19balazs86/PlayingWithHttpClientFactory.git
-git clone https://github.com/19balazs86/Playing-with-JWT-Authentication.git
 git clone https://github.com/19balazs86/PlayingWithMediatR.git
 git clone https://github.com/19balazs86/PlayingWithMetrics.git
 git clone https://github.com/19balazs86/PlayingWithMongoDB.git
