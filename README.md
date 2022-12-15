@@ -31,7 +31,7 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 
-[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests and bypassing the authentication.
+[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer and Alba to write integration tests bypassing the authentication.
 
 [Playing with **Hangfire**](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
