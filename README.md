@@ -31,7 +31,9 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 
-[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer and Alba to write integration tests bypassing the authentication.
+[Playing with **TestContainers**](https://github.com/19balazs86/PlayingWithTestContainers) - Try out Testcontainers and Respawn in integration test using Alba TestHost.
+
+[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests bypassing the authentication.
 
 [Playing with **Hangfire**](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
@@ -60,4 +62,3 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 [Playing with **Distributed Caching**](https://github.com/19balazs86/PlayingWithDistributedCaching) - Try out distributed cache with Redis.
 
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException) - Try out the AggregateException in asynchronous code.
-
