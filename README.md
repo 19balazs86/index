@@ -61,6 +61,4 @@ are intended to be a collection of certain topics. Playground to quickly and eas
 
 [Playing with **Distributed Tracing**](https://github.com/19balazs86/PlayingWithDistributedTracing) - Try out distributed tracing using Jaeger and OpenTracing library.
 
-[Playing with **Distributed Caching**](https://github.com/19balazs86/PlayingWithDistributedCaching) - Try out distributed cache with Redis.
-
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException) - Try out the AggregateException in asynchronous code.

@@ -9,7 +9,6 @@ git clone https://github.com/19balazs86/PlayingWithAggregateException.git
 git clone https://github.com/19balazs86/PlayingWithAuthentication.git
 git clone https://github.com/19balazs86/PlayingWithBenchmarkDotNet.git
 git clone https://github.com/19balazs86/PlayingWithDeviceOfflineDetection.git
-git clone https://github.com/19balazs86/PlayingWithDistributedCaching.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git
 git clone https://github.com/19balazs86/PlayingWithDistributedTracing.git
 git clone https://github.com/19balazs86/PlayingWithGenericHost.git
