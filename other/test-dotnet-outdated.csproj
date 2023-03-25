@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Alba" Version="7.3.0" />
+    <PackageReference Include="Alba" Version="7.4.0" />
     <PackageReference Include="App.Metrics" Version="4.3.0" />
     <PackageReference Include="App.Metrics.AspNetCore" Version="4.3.0" />
     <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="4.3.0" />
@@ -20,11 +20,11 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
     <PackageReference Include="Azure.Data.Tables" Version="12.8.0" />
     <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.13.1" />
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.15.0" />
-    <PackageReference Include="Azure.Storage.Queues" Version="12.13.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.15.1" />
+    <PackageReference Include="Azure.Storage.Queues" Version="12.13.1" />
     <PackageReference Include="BenchmarkDotNet" Version="0.13.5" />
     <PackageReference Include="Bogus" Version="34.0.2" />
-    <PackageReference Include="Carter" Version="7.0.0" />
+    <PackageReference Include="Carter" Version="7.0.1" />
     <PackageReference Include="Dapr.AspNetCore" Version="1.10.0" />
     <PackageReference Include="FluentValidation" Version="11.5.1" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
@@ -58,7 +58,7 @@
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="7.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="7.0.4" />
-    <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.10.1" />
+    <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.13.0" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.DurableTask" Version="1.0.0" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.0.13" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Storage.Blobs" Version="5.0.1" />
@@ -118,7 +118,7 @@
     <PackageReference Include="Testcontainers" Version="3.0.0" />
     <PackageReference Include="Testcontainers.PostgreSql" Version="3.0.0" />
     <PackageReference Include="TypedSignalR.Client" Version="3.3.0" />
-    <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="3.2.0" />
+    <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="3.3.0" />
     <PackageReference Include="xunit" Version="2.4.2" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5" />
   </ItemGroup>
