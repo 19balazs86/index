@@ -25,6 +25,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Azure Service Bus**](https://github.com/19balazs86/AzureServiceBus) - Try out Azure Service Bus and get a collection of useful links.
 
+[Playing with **Azure CosmosDB**](https://github.com/19balazs86/AzureCosmosDB) - Try out Azure CosmosDB, CRUD operations, pagination.
+
 [Playing with **Azure DevOps**](https://github.com/19balazs86/AzureDevOps) - Try out Azure DevOps Pipeline (YAML, ARM, PowerShell).
 
 [Playing with **Azure AppInsights**](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
