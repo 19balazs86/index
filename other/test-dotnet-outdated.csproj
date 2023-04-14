@@ -98,7 +98,6 @@
     <PackageReference Include="Quartz.Extensions.Hosting" Version="3.6.2" />
     <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
     <PackageReference Include="RedLock.net" Version="2.3.2" />
-    <PackageReference Include="Refit" Version="6.3.2" />
     <PackageReference Include="Refit.HttpClientFactory" Version="6.5.1" />
     <PackageReference Include="Respawn" Version="6.0.0" />
     <PackageReference Include="RichardSzalay.MockHttp" Version="6.0.0" />
