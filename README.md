@@ -39,6 +39,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests bypassing the authentication.
 
+[Playing with **Saga pattern**](https://github.com/19balazs86/PlayingWithSagaPattern) - Try out Saga pattern.
+
 [Playing with **Hangfire**](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
 [Playing with **GraphQL**](https://github.com/19balazs86/PlayingWithGraphQL) - Try out GraphQL for ASP.NET Core.

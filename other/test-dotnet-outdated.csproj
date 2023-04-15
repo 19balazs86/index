@@ -97,6 +97,9 @@
     <PackageReference Include="Quartz" Version="3.6.2" />
     <PackageReference Include="Quartz.Extensions.Hosting" Version="3.6.2" />
     <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+    <PackageReference Include="Rebus.PostgreSql" Version="8.1.0" />
+    <PackageReference Include="Rebus.RabbitMq" Version="8.0.0" />
+    <PackageReference Include="Rebus.ServiceProvider" Version="9.0.0" />
     <PackageReference Include="RedLock.net" Version="2.3.2" />
     <PackageReference Include="Refit.HttpClientFactory" Version="6.5.1" />
     <PackageReference Include="Respawn" Version="6.0.0" />
