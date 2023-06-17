@@ -84,6 +84,15 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.2.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.2" />
+    <PackageReference Include="Microsoft.Orleans.Client" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Persistence.AzureStorage" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Reminders" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Sdk" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Server" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Streaming" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Streaming.AzureStorage" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.TestingHost" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Orleans.Transactions" Version="7.1.2" />
     <PackageReference Include="Microsoft.Reactive.Testing" Version="6.0.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.19.2" />
     <PackageReference Include="Moq" Version="4.18.4" />
@@ -93,6 +102,7 @@
     <PackageReference Include="Ocelot" Version="19.0.2" />
     <PackageReference Include="OpenTracing" Version="0.12.1" />
     <PackageReference Include="OpenTracing.Contrib.NetCore" Version="0.9.0" />
+    <PackageReference Include="OrleansDashboard" Version="7.2.1" />
     <PackageReference Include="Polly" Version="7.2.4" />
     <PackageReference Include="Quartz" Version="3.6.2" />
     <PackageReference Include="Quartz.Extensions.Hosting" Version="3.6.2" />
