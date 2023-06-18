@@ -67,6 +67,4 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock) - Try out making distributed locks using Redis.
 
-[Playing with **Distributed Tracing**](https://github.com/19balazs86/PlayingWithDistributedTracing) - Try out distributed tracing using Jaeger and OpenTracing library.
-
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException) - Try out the AggregateException in asynchronous code.

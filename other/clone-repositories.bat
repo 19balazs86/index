@@ -12,7 +12,6 @@ git clone https://github.com/19balazs86/PlayingWithAuthentication.git
 git clone https://github.com/19balazs86/PlayingWithBenchmarkDotNet.git
 git clone https://github.com/19balazs86/PlayingWithDeviceOfflineDetection.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git
-git clone https://github.com/19balazs86/PlayingWithDistributedTracing.git
 git clone https://github.com/19balazs86/PlayingWithGenericHost.git
 git clone https://github.com/19balazs86/PlayingWithGraphQL.git
 git clone https://github.com/19balazs86/PlayingWithHangfire.git
@@ -23,6 +22,7 @@ git clone https://github.com/19balazs86/PlayingWithMetrics.git
 git clone https://github.com/19balazs86/PlayingWithMongoDB.git
 git clone https://github.com/19balazs86/PlayingWithMountebank.git
 git clone https://github.com/19balazs86/PlayingWithOcelot.git
+git clone https://github.com/19balazs86/PlayingWithOpenTelemetry
 git clone https://github.com/19balazs86/PlayingWithOrleans.git
 git clone https://github.com/19balazs86/PlayingWithRabbitMQ.git
 git clone https://github.com/19balazs86/PlayingWithRefit.git
