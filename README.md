@@ -45,6 +45,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Hangfire**](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
+[Playing with **OpenTelemetry**](https://github.com/19balazs86/PlayingWithOpenTelemetry) - Try out OpenTelemetry observability framework.
+
 [Playing with **GraphQL**](https://github.com/19balazs86/PlayingWithGraphQL) - Try out GraphQL for ASP.NET Core.
 
 [Playing with **Rx.NET**](https://github.com/19balazs86/PlayingWithRxDotNet) - Try out the observer design pattern with Rx.NET (Reactive Extension).
