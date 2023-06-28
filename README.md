@@ -5,6 +5,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **RabbitMQ**](https://github.com/19balazs86/PlayingWithRabbitMQ) - Try out RabbitMQ message broker. Publish messages and consuming in the background.
 
+[Playing with **Wolverine and Marten**](https://github.com/19balazs86/PlayingWithWolverineMarten) - Try out Wolwerine and MartenDB.
+
 [Playing with **MediatR**](https://github.com/19balazs86/PlayingWithMediatR) - Try out a CQRS like pattern with MediatR. Global error handling. In-memory EF. AutoMapper.
 
 [Playing with **SignalR**](https://github.com/19balazs86/PlayingWithSignalR) - Try out the SignalR back-end. Unit and Integration test. JWT Authentication.
