@@ -65,8 +65,6 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Swagger**](https://github.com/19balazs86/PlayingWithSwagger) - Try out the Swagger to generate documentation for Web APIs.
 
-[Playing with **Metrics**](https://github.com/19balazs86/PlayingWithMetrics) - Try out app-metrics with Prometheus.
-
 [Playing with **Distributed Lock**](https://github.com/19balazs86/PlayingWithDistributedLock) - Try out making distributed locks using Redis.
 
 [Playing with **AggregateException**](https://github.com/19balazs86/PlayingWithAggregateException) - Try out the AggregateException in asynchronous code.

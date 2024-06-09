@@ -6,10 +6,6 @@
 
   <ItemGroup>
     <PackageReference Include="Alba" Version="7.4.1" />
-    <PackageReference Include="App.Metrics" Version="4.3.0" />
-    <PackageReference Include="App.Metrics.AspNetCore" Version="4.3.0" />
-    <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="4.3.0" />
-    <PackageReference Include="App.Metrics.Reporting.InfluxDb" Version="4.3.0" />
     <PackageReference Include="Ardalis.SmartEnum" Version="8.0.0" />
     <PackageReference Include="AspNetCore.HealthChecks.MySql" Version="8.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="8.0.1" />
