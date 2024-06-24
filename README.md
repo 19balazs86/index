@@ -17,6 +17,10 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **HttpClientFactory**](https://github.com/19balazs86/PlayingWithHttpClientFactory) - Try out the built-in HttpClientFactory in ASP.NET Core WebAPI, using Polly to retry.
 
+[Playing with **TestContainers**](https://github.com/19balazs86/PlayingWithTestContainers) - Try out Testcontainers and Respawn in integration test using Alba TestHost.
+
+[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests bypassing the authentication.
+
 [Playing with **Refit**](https://github.com/19balazs86/PlayingWithRefit) - Try out the Refit, automatic type-safe REST library in ASP.NET Core WebAPI, using Polly to retry.
 
 [Playing with **gRPC**](https://github.com/19balazs86/PlayingWith_gRPC) - Try out the .NET Core client and server gRPC framework.
@@ -37,9 +41,7 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **MongoDB**](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 
-[Playing with **TestContainers**](https://github.com/19balazs86/PlayingWithTestContainers) - Try out Testcontainers and Respawn in integration test using Alba TestHost.
-
-[Playing with **TestHost**](https://github.com/19balazs86/PlayingWithTestHost) - Try out the built-in TestServer to write integration tests bypassing the authentication.
+[Playing with **OpenTelemetry**](https://github.com/19balazs86/PlayingWithOpenTelemetry) - Try out OpenTelemetry observability framework.
 
 [Playing with **Microsoft Orleans**](https://github.com/19balazs86/PlayingWithOrleans) - Try out Microsoft Orleans as an Actor Model.
 
@@ -47,17 +49,15 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Hangfire**](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
-[Playing with **OpenTelemetry**](https://github.com/19balazs86/PlayingWithOpenTelemetry) - Try out OpenTelemetry observability framework.
+[Playing with **BenchmarkDotNet**](https://github.com/19balazs86/PlayingWithBenchmarkDotNet) - Try out BenchmarkDotNet. Tips and tricks to write high-performance code.
+
+[Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks) - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
 
 [Playing with **GraphQL**](https://github.com/19balazs86/PlayingWithGraphQL) - Try out GraphQL for ASP.NET Core.
 
 [Playing with **Rx.NET**](https://github.com/19balazs86/PlayingWithRxDotNet) - Try out the observer design pattern with Rx.NET (Reactive Extension).
 
-[Playing with **BenchmarkDotNet**](https://github.com/19balazs86/PlayingWithBenchmarkDotNet) - Try out BenchmarkDotNet. Tips and tricks to write high-performance code.
-
 [Playing with **Mountebank**](https://github.com/19balazs86/PlayingWithMountebank) - Try out Mountebank, open source tool to provide on-demand defined HTTP server.
-
-[Playing with **HealthChecks**](https://github.com/19balazs86/PlayingWithHealthChecks) - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
 
 [Playing with **Serilog**](https://github.com/19balazs86/Playing-with-Serilog) - Try out Serilog in ASP.NET Core WebAPI. Read configurations from Consul.
 
