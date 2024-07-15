@@ -79,6 +79,7 @@
     <PackageReference Include="Microsoft.Orleans.TestingHost" Version="8.2.0" />
     <PackageReference Include="Microsoft.Orleans.Transactions" Version="8.2.0" />
     <PackageReference Include="Microsoft.Reactive.Testing" Version="6.0.1" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.15.1" />
     <PackageReference Include="MongoDB.Driver" Version="2.26.0" />
     <PackageReference Include="Moq" Version="4.20.70" />
     <PackageReference Include="NetEscapades.AspNetCore.SecurityHeaders" Version="0.22.0" />
