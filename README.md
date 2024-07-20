@@ -25,7 +25,7 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **gRPC**](https://github.com/19balazs86/PlayingWith_gRPC) - Try out the .NET Core client and server gRPC framework.
 
-[Playing with **Generative AI**](https://github.com/19balazs86/PlayingWithGenerativeAI) - Try out Semantic Kernel for AI solutions.
+[Playing with **Generative AI**](https://github.com/19balazs86/PlayingWithGenerativeAI) - Try out AI solutions with Semantic Kernel and OpenAI SDK.
 
 [Playing with **Azure Container App**](https://github.com/19balazs86/AzureContainerApp) - Try out Azure Container App and service invocation using the Dapr.
 
