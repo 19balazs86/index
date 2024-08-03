@@ -29,9 +29,11 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Azure Container App**](https://github.com/19balazs86/AzureContainerApp) - Try out Azure Container App and service invocation using the Dapr.
 
-[Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions) - Try out Azure Functions and get a collection of useful links.
+[Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions) - Try out Azure Functions.
 
-[Playing with **Azure Service Bus**](https://github.com/19balazs86/AzureServiceBus) - Try out Azure Service Bus and get a collection of useful links.
+[Playing with **Azure Service Bus**](https://github.com/19balazs86/AzureServiceBus) - Try out Azure Service Bus.
+
+[Playing with **Azure Event Grid**](https://github.com/19balazs86/AzureEventGrid) - Try out Azure Event Grid.
 
 [Playing with **Azure CosmosDB**](https://github.com/19balazs86/AzureCosmosDB) - Try out Azure CosmosDB, CRUD operations, pagination.
 
