@@ -35,6 +35,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Azure Event Grid**](https://github.com/19balazs86/AzureEventGrid) - Try out Azure Event Grid.
 
+[Playing with **Azure Event Hubs**](https://github.com/19balazs86/AzureEventHubs) - Try out Azure Event Hubs.
+
 [Playing with **Azure CosmosDB**](https://github.com/19balazs86/AzureCosmosDB) - Try out Azure CosmosDB, CRUD operations, pagination.
 
 [Playing with **Azure DevOps**](https://github.com/19balazs86/AzureDevOps) - Try out Azure DevOps Pipeline (YAML, ARM, PowerShell).

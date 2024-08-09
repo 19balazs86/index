@@ -3,6 +3,7 @@ git clone https://github.com/19balazs86/AzureContainerApp.git
 git clone https://github.com/19balazs86/AzureCosmosDB
 git clone https://github.com/19balazs86/AzureDevOps.git
 git clone https://github.com/19balazs86/AzureEventGrid.git
+git clone https://github.com/19balazs86/AzureEventHubs.git
 git clone https://github.com/19balazs86/AzureFunctions.git
 git clone https://github.com/19balazs86/AzureServiceBus.git
 git clone https://github.com/19balazs86/AzureStaticWebAppBlazorPolling
