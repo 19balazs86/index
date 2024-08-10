@@ -27,6 +27,8 @@ are intended to be a collection of certain topics, providing a playground to qui
 
 [Playing with **Generative AI**](https://github.com/19balazs86/PlayingWithGenerativeAI) - Try out AI solutions with Semantic Kernel and OpenAI SDK.
 
+[Playing with **Dapr**](https://github.com/19balazs86/PlayingWithDapr) - Try out Dapr.
+
 [Playing with **Azure Container App**](https://github.com/19balazs86/AzureContainerApp) - Try out Azure Container App and service invocation using the Dapr.
 
 [Playing with **Azure Functions**](https://github.com/19balazs86/AzureFunctions) - Try out Azure Functions.
