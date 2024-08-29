@@ -28,7 +28,7 @@ Playing with [gRPC](https://github.com/19balazs86/PlayingWith_gRPC) - Try out th
 
 Playing with [Generative AI](https://github.com/19balazs86/PlayingWithGenerativeAI) - Try out AI solutions with Semantic Kernel and OpenAI SDK.
 
-Playing with [Dapr](https://github.com/19balazs86/PlayingWithDapr) - Try out Dapr.
+Playing with [Dapr](https://github.com/19balazs86/PlayingWithDapr) - Try out Dapr locally and in Azure Container Apps.
 
 Playing with [Azure Container App](https://github.com/19balazs86/AzureContainerApp) - Try out Azure Container App and service invocation using the Dapr.
 
