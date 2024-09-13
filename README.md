@@ -72,6 +72,8 @@ Playing with [Serilog](https://github.com/19balazs86/Playing-with-Serilog) - Try
 
 Playing with [Ocelot](https://github.com/19balazs86/PlayingWithOcelot) - Try out Ocelot, an open-source .NET Core API Gateway.
 
+Playing with [YARP](https://github.com/19balazs86/PlayingWithYARP) - Try out YARP reverse proxy.
+
 Playing with [Swagger](https://github.com/19balazs86/PlayingWithSwagger) - Try out the Swagger to generate documentation for Web APIs.
 
 Playing with [Distributed Lock](https://github.com/19balazs86/PlayingWithDistributedLock) - Try out making distributed locks using Redis.

@@ -37,5 +37,6 @@ git clone https://github.com/19balazs86/PlayingWithSwagger.git
 git clone https://github.com/19balazs86/PlayingWithTestContainers.git
 git clone https://github.com/19balazs86/PlayingWithTestHost.git
 git clone https://github.com/19balazs86/PlayingWithWolverineMarten.git
+git clone https://github.com/19balazs86/PlayingWithYARP.git
 git clone https://github.com/19balazs86/ProjectUpdaterTool.git
 pause
