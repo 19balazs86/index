@@ -70,8 +70,6 @@ Playing with [Mountebank](https://github.com/19balazs86/PlayingWithMountebank) -
 
 Playing with [Serilog](https://github.com/19balazs86/Playing-with-Serilog) - Try out Serilog in ASP.NET Core WebAPI. Read configurations from Consul.
 
-Playing with [Ocelot](https://github.com/19balazs86/PlayingWithOcelot) - Try out Ocelot, an open-source .NET Core API Gateway.
-
 Playing with [YARP](https://github.com/19balazs86/PlayingWithYARP) - Try out YARP reverse proxy.
 
 Playing with [Swagger](https://github.com/19balazs86/PlayingWithSwagger) - Try out the Swagger to generate documentation for Web APIs.

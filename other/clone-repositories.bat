@@ -24,7 +24,6 @@ git clone https://github.com/19balazs86/PlayingWithHttpClientFactory.git
 git clone https://github.com/19balazs86/PlayingWithMediatR.git
 git clone https://github.com/19balazs86/PlayingWithMongoDB.git
 git clone https://github.com/19balazs86/PlayingWithMountebank.git
-git clone https://github.com/19balazs86/PlayingWithOcelot.git
 git clone https://github.com/19balazs86/PlayingWithOpenTelemetry
 git clone https://github.com/19balazs86/PlayingWithOrleans.git
 git clone https://github.com/19balazs86/PlayingWithRabbitMQ.git
