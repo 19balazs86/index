@@ -46,7 +46,9 @@ Playing with [Azure DevOps](https://github.com/19balazs86/AzureDevOps) - Try out
 
 Playing with [Azure AppInsights](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
 
-Playing with [Device offline detection](https://github.com/19balazs86/PlayingWithDeviceOfflineDetection) - Using durable entities to detect online/offline devices.
+Playing with [Device offline detection](https://github.com/19balazs86/PlayingWithDeviceOfflineDetection) - Azure Functions with Durable Entities to detect online/offline devices.
+
+Playing with [Device offline detection #2](https://github.com/19balazs86/AspireOrleansDeviceOfflineDetection) - In a simple application combining .NET Aspire, Orleans, and SignalR.
 
 Playing with [MongoDB](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 

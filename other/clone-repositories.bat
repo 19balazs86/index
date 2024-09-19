@@ -1,3 +1,4 @@
+git clone https://github.com/19balazs86/AspireOrleansDeviceOfflineDetection.git
 git clone https://github.com/19balazs86/AzureAppInsights.git
 git clone https://github.com/19balazs86/AzureContainerApp.git
 git clone https://github.com/19balazs86/AzureCosmosDB
