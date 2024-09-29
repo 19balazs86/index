@@ -13,6 +13,7 @@ git clone https://github.com/19balazs86/PlayingWith_gRPC.git
 git clone https://github.com/19balazs86/PlayingWithAggregateException.git
 git clone https://github.com/19balazs86/PlayingWithAuthentication.git
 git clone https://github.com/19balazs86/PlayingWithBenchmarkDotNet.git
+git clone https://github.com/19balazs86/PlayingWithCaching.git
 git clone https://github.com/19balazs86/PlayingWithDapr.git
 git clone https://github.com/19balazs86/PlayingWithDeviceOfflineDetection.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git

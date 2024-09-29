@@ -60,6 +60,8 @@ Playing with [Saga pattern](https://github.com/19balazs86/PlayingWithSagaPattern
 
 Playing with [Hangfire](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
 
+Playing with [Caching](https://github.com/19balazs86/PlayingWithCaching) - Try out caching.
+
 Playing with [BenchmarkDotNet](https://github.com/19balazs86/PlayingWithBenchmarkDotNet) - Try out BenchmarkDotNet. Tips and tricks to write high-performance code.
 
 Playing with [HealthChecks](https://github.com/19balazs86/PlayingWithHealthChecks) - Try out the new feature of HealthChecks in ASP.NET Core WebAPI.
