@@ -19,6 +19,7 @@ git clone https://github.com/19balazs86/PlayingWithDeviceOfflineDetection.git
 git clone https://github.com/19balazs86/PlayingWithDistributedLock.git
 git clone https://github.com/19balazs86/PlayingWithGenerativeAI.git
 git clone https://github.com/19balazs86/PlayingWithGenericHost.git
+git clone https://github.com/19balazs86/PlayingWithGeospatial.git
 git clone https://github.com/19balazs86/PlayingWithGraphQL.git
 git clone https://github.com/19balazs86/PlayingWithHangfire.git
 git clone https://github.com/19balazs86/PlayingWithHealthChecks.git
