@@ -46,7 +46,7 @@ Playing with [Azure DevOps](https://github.com/19balazs86/AzureDevOps) - Try out
 
 Playing with [Azure AppInsights](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
 
-Playing with [Geospatial location](https://github.com/19balazs86/PlayingWithGeospatial) - Try out Geospatial location using LeafletJS and CosmosDB.
+Playing with [Geospatial location](https://github.com/19balazs86/PlayingWithGeospatial) - Try out Geospatial location using LeafletJS, CosmosDB, MongoDB.
 
 Playing with [Device offline detection](https://github.com/19balazs86/PlayingWithDeviceOfflineDetection) - Azure Functions with Durable Entities to detect online/offline devices.
 
