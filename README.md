@@ -30,6 +30,8 @@ Playing with [Generative AI](https://github.com/19balazs86/PlayingWithGenerative
 
 Playing with [Dapr](https://github.com/19balazs86/PlayingWithDapr) - Try out Dapr locally and in Azure Container Apps.
 
+Playing with [Geospatial location](https://github.com/19balazs86/PlayingWithGeospatial) - Try out Geospatial location using LeafletJS, Cosmos, Mongo, Redis, Postgres.
+
 Playing with [Azure Container App](https://github.com/19balazs86/AzureContainerApp) - Try out Azure Container App and service invocation using the Dapr.
 
 Playing with [Azure Functions](https://github.com/19balazs86/AzureFunctions) - Try out Azure Functions.
@@ -45,8 +47,6 @@ Playing with [Azure CosmosDB](https://github.com/19balazs86/AzureCosmosDB) - Try
 Playing with [Azure DevOps](https://github.com/19balazs86/AzureDevOps) - Try out Azure DevOps Pipeline (YAML, ARM, PowerShell).
 
 Playing with [Azure AppInsights](https://github.com/19balazs86/AzureAppInsights) - Try out Azure Application Insights.
-
-Playing with [Geospatial location](https://github.com/19balazs86/PlayingWithGeospatial) - Try out Geospatial location using LeafletJS, CosmosDB, MongoDB.
 
 Playing with [Device offline detection](https://github.com/19balazs86/PlayingWithDeviceOfflineDetection) - Azure Functions with Durable Entities to detect online/offline devices.
 
