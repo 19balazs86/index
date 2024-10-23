@@ -52,6 +52,8 @@ Playing with [Device offline detection](https://github.com/19balazs86/PlayingWit
 
 Playing with [Device offline detection #2](https://github.com/19balazs86/AspireOrleansDeviceOfflineDetection) - In a simple application combining .NET Aspire, Orleans, and SignalR.
 
+Playing with [Dapper](https://github.com/19balazs86/PlayingWithDapper) - Try out Dapper micro ORM.
+
 Playing with [MongoDB](https://github.com/19balazs86/PlayingWithMongoDB) - Try out MongoDB, CRUD operations, pagination solution.
 
 Playing with [AWS SQS and SNS](https://github.com/19balazs86/AWS-SQS-SNS) - Try out AWS SQS and SNS.
