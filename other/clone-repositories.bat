@@ -37,6 +37,7 @@ git clone https://github.com/19balazs86/PlayingWithRxDotNet.git
 git clone https://github.com/19balazs86/PlayingWithSagaPattern.git
 git clone https://github.com/19balazs86/Playing-with-Serilog.git
 git clone https://github.com/19balazs86/PlayingWithSignalR.git
+git clone https://github.com/19balazs86/PlayingWithSourceGenerator.git
 git clone https://github.com/19balazs86/PlayingWithSwagger.git
 git clone https://github.com/19balazs86/PlayingWithTestContainers.git
 git clone https://github.com/19balazs86/PlayingWithTestHost.git

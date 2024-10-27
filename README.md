@@ -62,6 +62,8 @@ Playing with [OpenTelemetry](https://github.com/19balazs86/PlayingWithOpenTeleme
 
 Playing with [Microsoft Orleans](https://github.com/19balazs86/PlayingWithOrleans) - Try out Microsoft Orleans as an Actor Model.
 
+Playing with [Source Generator](https://github.com/19balazs86/PlayingWithSourceGenerator) - Try out Roslyn Source Generator.
+
 Playing with [Saga pattern](https://github.com/19balazs86/PlayingWithSagaPattern) - Try out Saga pattern.
 
 Playing with [Hangfire](https://github.com/19balazs86/PlayingWithHangfire) - Try out Hangfire to perform background processing in .NET Core applications.
