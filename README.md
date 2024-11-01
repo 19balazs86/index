@@ -58,6 +58,8 @@ Playing with [MongoDB](https://github.com/19balazs86/PlayingWithMongoDB) - Try o
 
 Playing with [AWS SQS and SNS](https://github.com/19balazs86/AWS-SQS-SNS) - Try out AWS SQS and SNS.
 
+Playing with [AWS DynamoDB](https://github.com/19balazs86/AWS-DynamoDB) - Try out AWS DynamoDB.
+
 Playing with [OpenTelemetry](https://github.com/19balazs86/PlayingWithOpenTelemetry) - Try out OpenTelemetry observability framework.
 
 Playing with [Microsoft Orleans](https://github.com/19balazs86/PlayingWithOrleans) - Try out Microsoft Orleans as an Actor Model.
