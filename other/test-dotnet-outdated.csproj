@@ -136,8 +136,8 @@
     <PackageReference Include="System.Numerics.Tensors" Version="8.0.0" />
     <PackageReference Include="System.Reactive" Version="6.0.1" />
     <PackageReference Include="System.Threading.Channels" Version="8.0.0" />
-    <PackageReference Include="Testcontainers" Version="3.10.0" />
-    <PackageReference Include="Testcontainers.PostgreSql" Version="3.10.0" />
+    <PackageReference Include="Testcontainers" Version="4.0.0" />
+    <PackageReference Include="Testcontainers.PostgreSql" Version="4.0.0" />
     <PackageReference Include="TypedSignalR.Client" Version="3.6.0" />
     <PackageReference Include="WireMock.Net" Version="1.6.6" />
     <PackageReference Include="WolverineFx" Version="3.0.0" />
