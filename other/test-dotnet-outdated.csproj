@@ -12,8 +12,8 @@
     <PackageReference Include="Auth0.AspNetCore.Authentication" Version="1.4.1" />
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="AWSSDK.DynamoDBv2" Version="4.0.0-preview.4" />
-    <PackageReference Include="AWSSDK.SimpleNotificationService" Version="3.7.400.50" />
-    <PackageReference Include="AWSSDK.SQS" Version="3.7.400.50" />
+    <PackageReference Include="AWSSDK.SimpleNotificationService" Version="3.7.400.52" />
+    <PackageReference Include="AWSSDK.SQS" Version="3.7.400.52" />
     <PackageReference Include="Azure.Data.Tables" Version="12.9.1" />
     <PackageReference Include="Azure.Messaging.EventGrid.Namespaces" Version="1.0.0" />
     <PackageReference Include="Azure.Messaging.EventHubs" Version="5.11.5" />
@@ -65,7 +65,7 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Timer" Version="4.3.1" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="2.0.0" />
     <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.2.0" />
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DurableTask" Version="2.13.7" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DurableTask" Version="3.0.0" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.SignalRService" Version="1.14.0" />
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.11.0" PrivateAssets="all" />
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.11.0" />
@@ -89,13 +89,13 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.6.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
-    <PackageReference Include="Microsoft.Orleans.Client" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.Reminders" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.Sdk" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.Server" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.Streaming" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.TestingHost" Version="8.2.0" />
-    <PackageReference Include="Microsoft.Orleans.Transactions" Version="8.2.0" />
+    <PackageReference Include="Microsoft.Orleans.Client" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.Reminders" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.Sdk" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.Server" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.Streaming" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.TestingHost" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Orleans.Transactions" Version="9.0.0" />
     <PackageReference Include="Microsoft.Reactive.Testing" Version="6.0.1" />
     <PackageReference Include="Microsoft.SemanticKernel" Version="1.29.0" />
     <PackageReference Include="MongoDB.Driver" Version="3.0.0" />
