@@ -26,8 +26,8 @@
     <PackageReference Include="Dapper" Version="2.1.66" />
     <PackageReference Include="Dapr.Actors.AspNetCore" Version="1.14.0" />
     <PackageReference Include="Dapr.AspNetCore" Version="1.14.0" />
-    <PackageReference Include="dbup-postgresql" Version="5.0.40" />
-    <PackageReference Include="dbup-sqlserver" Version="5.0.41" />
+    <PackageReference Include="dbup-postgresql" Version="6.0.3" />
+    <PackageReference Include="dbup-sqlserver" Version="6.0.0" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="Google.Protobuf" Version="3.29.3" />
